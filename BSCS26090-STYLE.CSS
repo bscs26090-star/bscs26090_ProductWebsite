@@ -1,0 +1,19 @@
+background{
+color: #ebde7b;
+  
+}
+
+
+.product-card {
+  background-color: #11cdae;
+  padding: 15px;
+  margin: 10px;
+  text-align: center;
+}
+.contact-info {
+
+    background-color: #1abe08;
+  padding: 20px;
+  margin: 15px;
+  text-align: center;
+}
